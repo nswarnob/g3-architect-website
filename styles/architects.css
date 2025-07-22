@@ -90,3 +90,10 @@ header{
   height: 50%; 
   border-radius: 8px;
 }
+
+.our-feature{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
